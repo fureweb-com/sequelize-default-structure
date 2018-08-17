@@ -1,4 +1,5 @@
 # 기초 구조
+```txt
 ┌─config
 │  ├─connection
 │  │ ├─development.js
@@ -11,6 +12,7 @@
 ├─.babelrc
 ├─index.js
 └─main.js
+```
 
 # 주요 파일 설명
 
