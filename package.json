@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-default-structure",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "fureweb",
+  "license": "MIT",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.38.0"
+  },
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
